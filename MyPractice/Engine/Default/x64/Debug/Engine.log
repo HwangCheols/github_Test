@@ -1,0 +1,60 @@
+﻿  VIBuffer_Rect.cpp
+  VIBuffer.cpp
+  Timer_Manager.cpp
+  Timer.cpp
+  Texture.cpp
+c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): warning C4251: 'Engine::CTexture::m_Textures': class 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>'에서는 class 'Engine::CTexture'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): note: 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  Renderer.cpp
+  Object_Manager.cpp
+  Level_Manager.cpp
+c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): warning C4251: 'Engine::CTexture::m_Textures': class 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>'에서는 class 'Engine::CTexture'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): note: 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  Level.cpp
+  Layer.cpp
+  Graphic_Device.cpp
+  GameObject.cpp
+  GameInstance.cpp
+c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): warning C4251: 'Engine::CTexture::m_Textures': class 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>'에서는 class 'Engine::CTexture'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): note: 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  Component_Manager.cpp
+c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): warning C4251: 'Engine::CTexture::m_Textures': class 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>'에서는 class 'Engine::CTexture'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  c:\users\user\desktop\15일차_220512\engine\public\texture.h(24): note: 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  Component.cpp
+  Base.cpp
+  코드를 생성하고 있습니다...
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\user\Desktop\15일차_220512\Engine\Default\..\Bin\Engine.dll
+  Engine.vcxproj -> ..\Bin\Engine.pdb (Full PDB)

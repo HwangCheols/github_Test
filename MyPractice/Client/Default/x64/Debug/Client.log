@@ -1,0 +1,13 @@
+﻿  BackGround.cpp
+c:\users\user\desktop\15일차_220512\reference\headers\texture.h(24): warning C4251: 'Engine::CTexture::m_Textures': class 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>'에서는 class 'Engine::CTexture'의 클라이언트에서 DLL 인터페이스를 사용하도록 지정해야 합니다.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  c:\users\user\desktop\15일차_220512\reference\headers\texture.h(24): note: 'std::vector<LPDIRECT3DBASETEXTURE9,std::allocator<_Ty>>' 선언을 참조하십시오.
+          with
+          [
+              _Ty=LPDIRECT3DBASETEXTURE9
+          ]
+  Client.vcxproj -> C:\Users\user\Desktop\15일차_220512\Client\Default\..\Bin\Client.exe
+  Client.vcxproj -> ..\Bin\Client.pdb (Full PDB)
